@@ -1,4 +1,4 @@
-# 24009771-ChuyaoWang-MscCC-FinalProject
+# ChuyaoWang-Project
 
 
 # 🌸 **Bloom of Rebirth**
@@ -17,10 +17,6 @@
 
 | 🗃️ | Source Files: [**Download Here**](https://drive.google.com/file/d/1hgSwr7IYVelPV9JSZQ1Di-XbsE1l-RB8/view?usp=drive_link) |
 | --- | :-------------------------------------------------------------------------------------------------------------------------------------- |
-
-| 🗂️ | Development Document: [**GitLab Repository**](https://git.arts.ac.uk/24009771/ChuyaoWang-FinalProject.git) |
-| --- | :--------------------------------------------------------------------------------------------------------- |
-
 
 
 
